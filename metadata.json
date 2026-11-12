@@ -1,0 +1,8 @@
+{
+  "name": "Remix SI-ARSIP KUA Pekat",
+  "description": "Sistem Informasi Arsip Digital Dokumen dan Pencarian Cepat Kantor Urusan Agama Kecamatan Pekat, Kabupaten Dompu, NTB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
